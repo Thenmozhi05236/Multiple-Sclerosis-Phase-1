@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+pandas
+opencv-python-headless
+pillow
+streamlit
+matplotlib
+nibabel
+openpyxl
+scikit-learn
